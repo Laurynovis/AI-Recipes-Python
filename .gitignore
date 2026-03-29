@@ -1,0 +1,11 @@
+# Ocultar as variáveis de ambiente (NUNCA apagar esta linha)
+.env
+
+# Ignorar a pasta do ambiente virtual (é pesada e não deve ir para o GitHub)
+venv/
+.venv/
+
+# Ignorar ficheiros temporários do Python e do Mac
+__pycache__/
+*.pyc
+.DS_Store
